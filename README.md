@@ -1,7 +1,7 @@
 SVG utilities for Adobe Illustrator
 =================
 
-This place is were I intend to publish various scripts I use for working with SVG in Adobe Illustrator.
+This place is where I intend to publish various scripts I use for working with SVG in Adobe Illustrator.
 
 ## Layers-to-SVG.jsx
 
