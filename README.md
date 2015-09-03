@@ -1,3 +1,6 @@
+## ⚠ Deprecated
+This script is not working with latest version of Adobe Illustrator CC (2015). I recommend to use [iconic](https://github.com/iconic/illustrator-svg-exporter)'s [illustrator-svg-exporter](https://github.com/iconic/illustrator-svg-exporter).
+
 SVG utilities for Adobe Illustrator
 =================
 
